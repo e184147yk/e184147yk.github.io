@@ -1,0 +1,28 @@
+h1{
+    color: azure;
+    font-size:40px;text-align: center;
+    background-color: red;
+
+}
+
+h2{
+    color: black;
+    font-size:33px;text-align: center;
+    background-color: yellow;  
+    
+}
+
+h3{
+    font-size:25px;text-align: left;
+    color:white
+}
+p{
+    color:chartreuse; 
+}
+body{
+    background-image: url("../images/S2.jpg"); //背景画像
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position:center;
+    /*background-color:steelblue;*/
+}

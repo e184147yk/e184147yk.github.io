@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-family: "impact";
+    text-align: center;
+    background-color: orange;  
+}
+p{
+    font-size: 25px;
+font-weight: bold;
+}
+    
+    body{
+        background-image: url("../images/01.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position:center;
+    }
