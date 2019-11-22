@@ -1,0 +1,50 @@
+h1{
+    color: azure;
+    font-size:50px;text-align: center;
+    background-color:blue;
+
+}
+
+h2{
+    font-size:40px;text-align: center;   
+}
+h2#get{
+    color: white;
+    background-color: red; 
+}
+
+h2#mjn{
+    color: yellow;
+    background-color: black;  
+}
+
+h2#L{
+    
+    color: skyblue;
+    background-color: navy;  
+    font-size: 30px; !important;
+}
+
+
+
+p{
+    font-family: cursive;
+    font-size: 24px;
+}
+p#M{
+    color: gold;
+    background-color: black;  
+}
+
+
+p#G{
+    color: lawngreen;
+   background-color: navy;  
+}
+body{
+    background-image: url("../images/S3.jpg"); //背景画像
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position:center;
+    /*background-color:steelblue;*/
+}
