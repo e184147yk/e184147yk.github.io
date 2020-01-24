@@ -1,5 +1,5 @@
 div.title{
-    width: 1000px;
+    width: 910px;
     height: 60px;
     background-color: brown;
     text-align: center;
@@ -46,7 +46,7 @@ div.menu3{ border:6px dotted pink;
 
 div.KO{
     margin-top: 10px;
-    width: 1000PX;
+    width: 910PX;
     height: 40px;
    
     font-family:serif;
@@ -56,19 +56,10 @@ div.KO{
 
 
 
-div.artcle{
-    width: 1000px;
-    height: 100px;
-    background-color:bisque;
-    text-align: center;
-    font-size: 15px;
-    font-family: "Impact";
-    margin-bottom: 10px;
-    
-}
+
 div.footer{
     margin-top: 20px;
-    width: 1000px;
+    width: 910px;
     height: 40px;
     background-color: navajowhite;
     text-align: center;
